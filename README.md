@@ -1,5 +1,5 @@
 
-<a>Descargo de responsabilidad: la cms pertence a AtomCMS, solo es una version modificada de los diseños.
+<a>Descargo de responsabilidad: la cms pertence a AtomCMS, solo es una version modificada de los diseños.</a>
 
 <div align="center">
 <img src="https://i.imgur.com/9ePNdJ4.png" alt="Atom CMS"/>
